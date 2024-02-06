@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">PMOI12024P12</string>
-    <string name="button">Button</string>
+    <string name="nombre">Ingrese su Nombre</string>
+    <string name="apellido">Ingrese su apellido</string>
+    <string name="telefono">Ingrese su telefono</string>
+    <string name="btn_procesar">Procesar</string>
 </resources>
